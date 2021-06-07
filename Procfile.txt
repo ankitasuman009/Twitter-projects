@@ -1,0 +1,2 @@
+web: python Server.ipynb
+worker: python bot.ipynb
